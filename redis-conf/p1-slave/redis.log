@@ -1,0 +1,129 @@
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.13 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6301
+ |    `-._   `._    /     _.-'    |     PID: 2072
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[2072] 04 Sep 17:41:37.859 # Server started, Redis version 2.8.13
+[2072] 04 Sep 17:41:37.859 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[2072] 04 Sep 17:41:37.859 * The server is now ready to accept connections on port 6301
+[2072] 10 Sep 14:40:30.885 # User requested shutdown...
+[2072] 10 Sep 14:40:30.892 * Removing the pid file.
+[2072] 10 Sep 14:40:30.892 # Redis is now ready to exit, bye bye...
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.13 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6301
+ |    `-._   `._    /     _.-'    |     PID: 14914
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[14914] 10 Sep 14:45:43.806 # Server started, Redis version 2.8.13
+[14914] 10 Sep 14:45:43.807 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[14914] 10 Sep 14:45:43.807 * The server is now ready to accept connections on port 6301
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.13 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6311
+ |    `-._   `._    /     _.-'    |     PID: 16630
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[16630] 10 Sep 15:23:30.855 # Server started, Redis version 2.8.13
+[16630] 10 Sep 15:23:30.855 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[16630] 10 Sep 15:23:30.855 * The server is now ready to accept connections on port 6311
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.13 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6411
+ |    `-._   `._    /     _.-'    |     PID: 17281
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[17281] 10 Sep 15:37:42.142 # Server started, Redis version 2.8.13
+[17281] 10 Sep 15:37:42.142 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[17281] 10 Sep 15:37:42.142 * The server is now ready to accept connections on port 6411
+[17281] 10 Sep 15:37:42.142 * Connecting to MASTER 10.169.100.39:6311
+[17281] 10 Sep 15:37:42.142 * MASTER <-> SLAVE sync started
+[17281] 10 Sep 15:37:42.142 * Non blocking connect for SYNC fired the event.
+[17281] 10 Sep 15:37:42.142 * Master replied to PING, replication can continue...
+[17281] 10 Sep 15:37:42.143 * Partial resynchronization not possible (no cached master)
+[17281] 10 Sep 15:37:42.144 * Full resync from master: aaa8d0f22119dfd2dd8c2dd1d3a534c211f33c81:1
+[17281] 10 Sep 15:37:42.182 * MASTER <-> SLAVE sync: receiving 18 bytes from master
+[17281] 10 Sep 15:37:42.182 * MASTER <-> SLAVE sync: Flushing old data
+[17281] 10 Sep 15:37:42.182 * MASTER <-> SLAVE sync: Loading DB in memory
+[17281] 10 Sep 15:37:42.182 * MASTER <-> SLAVE sync: Finished with success
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.13 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6411
+ |    `-._   `._    /     _.-'    |     PID: 6521
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[6521] 26 Sep 15:35:47.452 # Server started, Redis version 2.8.13
+[6521] 26 Sep 15:35:47.452 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[6521] 26 Sep 15:35:47.452 * DB loaded from disk: 0.000 seconds
+[6521] 26 Sep 15:35:47.452 * The server is now ready to accept connections on port 6411
+[6521] 26 Sep 15:35:47.452 * Connecting to MASTER 10.171.85.136:6311
+[6521] 26 Sep 15:35:47.452 * MASTER <-> SLAVE sync started
+[6521] 26 Sep 15:35:47.452 * Non blocking connect for SYNC fired the event.
+[6521] 26 Sep 15:35:47.452 * Master replied to PING, replication can continue...
+[6521] 26 Sep 15:35:47.452 * Partial resynchronization not possible (no cached master)
+[6521] 26 Sep 15:35:47.454 * Full resync from master: 6bcd71db1e6df521dd505f54519a15e6e35ab30c:1
+[6521] 26 Sep 15:35:47.534 * MASTER <-> SLAVE sync: receiving 18 bytes from master
+[6521] 26 Sep 15:35:47.535 * MASTER <-> SLAVE sync: Flushing old data
+[6521] 26 Sep 15:35:47.535 * MASTER <-> SLAVE sync: Loading DB in memory
+[6521] 26 Sep 15:35:47.535 * MASTER <-> SLAVE sync: Finished with success
