@@ -10,6 +10,7 @@ j="$1";
 if [ -z "${j}" ]; then
 j=5;
 fi
+#找出该进程下,运行时间过长的进程 id号
 ps -mp ${PID} -o THREAD,tid,time | sort -rn > ${LOG_FILE};
 jstack ${PID} > ${JSTACK_FILE};
 for LINE in `cat ${LOG_FILE}|gawk -F '-' '{print $4}'|gawk -F ' ' '{print $1}'`
