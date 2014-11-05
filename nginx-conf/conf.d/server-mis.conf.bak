@@ -1,0 +1,13 @@
+server {
+        //listen       443;
+        listen       80;
+        server_name  mis.s.hehua.com mis.hehuababy.com;
+        //ssl on;
+        //ssl_certificate /opt/nginx/conf/server.crt;
+        //ssl_certificate_key  /opt/nginx/conf/server_nopwd.key;	
+        location / {
+		proxy_pass http://127.0.0.1:8084;
+		include "proxy_params";
+        }
+
+}

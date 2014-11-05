@@ -1,0 +1,4 @@
+upstream api {
+    server 10.169.104.56:8082 weight=5;
+
+}
