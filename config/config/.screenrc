@@ -1,0 +1,8 @@
+#关闭错误提示
+vbell off
+charset UTF-8
+
+hardstatus on
+hardstatus alwayslastline
+#see http://www.gnu.org/software/screen/manual/html_node/String-Escapes.html
+hardstatus string "%{.bW}%-w%{.rY}%n %t%{-}%+w %=%{..G} %H(%l) %{..Y} %Y/%m/%d %c:%s "

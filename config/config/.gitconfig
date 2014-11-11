@@ -1,0 +1,14 @@
+[alias]
+st = status
+ci = commit
+di = diff
+dic = diff --cached
+dio = diff origin master
+co = checkout
+br = branch
+logp = log -p
+[user]
+name = liuweiwei
+email = youly001@gmail.com
+[push]
+	default = matching
