@@ -4,8 +4,6 @@
 #
 # @Usage
 #   $ ./show-busy-java-threads.sh
-#
-# @author Jerry Lee
 
 PROG=`basename $0`
 
